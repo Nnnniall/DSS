@@ -1,6 +1,9 @@
 # DSS-main
 This is the official Pytorch implementation of our paper:
-**"Discriminative Score Suppression for Weakly Supervised Video Anomaly Detection"** in **WACV 2025**.
+> **Discriminative Score Suppression for Weakly Supervised Video Anomaly Detection**
+> 
+> Chen Xu, Chunguo Li, Hongjie Xing
+- **Accepted at WACV 2025.**
 
 ![framework](data/framework.png)
 
