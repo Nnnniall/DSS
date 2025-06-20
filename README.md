@@ -1,4 +1,4 @@
-# DSS-main
+# DSS
 This is the official Pytorch implementation of our paper:
 > **Discriminative Score Suppression for Weakly Supervised Video Anomaly Detection**
 > 
